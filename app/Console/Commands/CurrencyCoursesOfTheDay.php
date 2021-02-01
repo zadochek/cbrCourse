@@ -5,7 +5,7 @@ namespace App\Console\Commands;
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Log;
-use CBR\CurrencyDaily;
+use App\CurrencyDaily;
 
 class CurrencyCoursesOfTheDay extends Command
 {

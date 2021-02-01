@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1067603ae6df37efb9ffcc6d985efdbb",
+    "content-hash": "c2a5d651a4089f5f9c397446706caea9",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1475,16 +1475,6 @@
                 }
             ],
             "time": "2020-12-14T13:15:25+00:00"
-        },
-        {
-            "name": "nabarabane/cbr",
-            "version": "master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/wa1kb0y/cbr.git",
-                "reference": "master"
-            },
-            "type": "library"
         },
         {
             "name": "nesbot/carbon",
